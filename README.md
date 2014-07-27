@@ -4,6 +4,10 @@ node-load-json
 Simple utility to do a json request
 --
 
+```sh
+npm install load-json --save
+```
+
 ## Example
 
 ```js
