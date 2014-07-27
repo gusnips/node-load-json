@@ -1,0 +1,28 @@
+{
+  "name": "load-json",
+  "version": "0.0.1",
+  "description": "Simple utility to do a json request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gusnips/node-load-json.git"
+  },
+  "keywords": [
+    "load",
+    "json",
+    "request",
+    "get",
+    "http",
+    "qs",
+    "api"
+  ],
+  "author": "Gustavo Salomé <gustavonips@gmail.com> (https://github.com/gusnips)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gusnips/node-load-json/issues"
+  },
+  "homepage": "https://github.com/gusnips/node-load-json"
+}
